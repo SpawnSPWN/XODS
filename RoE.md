@@ -64,7 +64,7 @@ Help us help you ☺️
 **Territories:**
   - if the territory is contested (SPWN or our ally’s territory who we’re helping), then all ships, including miners, are considered warships
   - if no contest to the territory, then regular RoE applies (OPC/Z-node with screenshot only)
-  - Our guidelines for mining in Origin Space, aka Territories, are found here: [Mining in Territory](https://github.com/KyreSPWN/SPWN/blob/main/TerritoryMining.md)
+  - Our guidelines for mining in Origin Space, aka Territories, are found here: [Mining in Territory](https://github.com/SpawnSPWN/SPWN/blob/main/TerritoryMining.md)
   - We ask any alliance to please send a message in embassy or a message in game that you will be entering territory for Q Trial events & we will do our utmost to respond quickly and notify in AC that you are not to be harmed
   - If any of our members have a Q Trial in a territory not owned by us we ask you to please send a message to the leadership of the alliance that owns it before heading into their territory
 
@@ -95,4 +95,4 @@ This is a copy of the RoE found in Steve's discord. The version of RoE on discor
 
 Primarially written by Wish and Gail, with additions by KyreR
 
-[Home](https://github.com/KyreSPWN/SPWN)
+[Home](https://github.com/SpawnSPWN/SPWN)
