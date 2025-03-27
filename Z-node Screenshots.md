@@ -12,13 +12,13 @@ The below image is an example of what the RoE Officer will expect as evidence if
   - The node looking duller in color.
   - The name of the victim shown clearly.
 
-![An image of a gas node that is dull in color showing that it has been emptied.](https://github.com/KyreSPWN/SPWN/blob/main/Z-node.jpg)
+![An image of a gas node that is dull in color showing that it has been emptied.](https://github.com/SpawnSPWN/SPWN/blob/main/Z-node.jpg)
 
 <br><br>
 
 The following is an example of a node that has vibrant color, showing that it still has material left in it. This is **NOT** an OK player to hit.
 
-![An image of a gas node that is vibrant in color showing that it still has material left in it.](https://github.com/KyreSPWN/SPWN/blob/main/ActiveNode.jpg)
+![An image of a gas node that is vibrant in color showing that it still has material left in it.](https://github.com/SpawnSPWN/SPWN/blob/main/ActiveNode.jpg)
 
 <br><br>
 
@@ -26,8 +26,8 @@ For znodes of Ore, Crystal, and Gas, you do not need to click on the node to bri
 
 For znodes of Isogen, Latinum, and other mining nodes that DO NOT show a change in color when at 0, then two screenshots are needed. The first being like the example above, and the second showing the pop-up box when you click on the node that says it is at "0".
 
-![An image of an Isogen node where the player has clicked on the node to show that it is at 0.](https://github.com/KyreSPWN/SPWN/blob/main/Iso_Screenshot.jpg)
+![An image of an Isogen node where the player has clicked on the node to show that it is at 0.](https://github.com/SpawnSPWN/SPWN/blob/main/Iso_Screenshot.jpg)
 
 If you have any questions about what is expected, please ask an Officer.
 
-[Home](https://github.com/KyreSPWN/SPWN)
+[Home](https://github.com/SpawnSPWN/SPWN)
