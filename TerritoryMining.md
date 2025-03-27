@@ -14,4 +14,4 @@ There are a limited number of nodes in our territories. We have a very active an
 
 Written by: Gail (GTBMusicIsLife)
 
-[Home](https://github.com/KyreSPWN/SPWN)
+[Home](https://github.com/SpawnSPWN/SPWN)
