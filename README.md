@@ -17,7 +17,7 @@ And once you sign up for notifications (instructions below), you get access to t
 
 This is Steve's professional discord, so the other rooms in the server should remain free from discussions about the game.
 
-If you have any questions about RoE, please contact KyreR in game or in the STFC rooms on discord.
+If you have any questions about RoE, please contact any officer in game or in the STFC rooms on discord.
 
 Please change your server name to match your in-game name.
 
