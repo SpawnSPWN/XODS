@@ -24,8 +24,9 @@ Please change your server name to match your in-game name.
 You can get notifications when people post with an @stfc in the discord rooms! Here are the steps:
 1. Go to the top of the Channels list.
 2. Click on Channels and Roles
-3. Click on All Channels
-4. Scroll down to the Star Trek Fleet Command category and check Follow Category (preferred choice) or choose what channels you want to follow individually
-5. @ message Gail (GTBMusicIsLife) or Steve to be added to the spwn role
+3. Click on Star Trek Fleet Command 
+4. Click on Browse Channels
+5. Scroll down to the Star Trek Fleet Command category and check Follow Category (preferred choice) or choose what channels you want to follow individually
+6. @ message Gail (GTBMusicIsLife) to be added to the spwn role
 
 [Home](https://github.com/SpawnSPWN/SPWN)
