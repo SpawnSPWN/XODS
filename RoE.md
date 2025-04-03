@@ -55,15 +55,12 @@ Help us help you ☺️
 
 ## SPWN specific RoE
 
-- Our RoE Officer is KyreR, Backup is FahQueue2
 - Any RoE violations should be reported to them in the discord channel “stfc-roe-violations-only”
-- If Kyre or FQ is unavailable for any reason another officer will handle it
 - Our members are required to take screenshots of Z-node hits.  **All screenshots must be posted in discord in the “stfc-znode” screenshots channel**. Failure to provide Z-node screenshots will result in a strike.
 - Starbase Assaults are **ONLY** to be started with Officer approval. Starting an Assault without Officer approval will result in a strike.
 
 **Territories:**
-  - if the territory is contested (SPWN or our ally’s territory who we’re helping), then all ships, including miners, are considered warships
-  - if no contest to the territory, then regular RoE applies (OPC/Z-node with screenshot only)
+  - Any ship from anyone that is not an Ally in our territories can be blown up
   - Our guidelines for mining in Origin Space, aka Territories, are found here: [Mining in Territory](https://github.com/SpawnSPWN/SPWN/blob/main/TerritoryMining.md)
   - We ask any alliance to please send a message in embassy or a message in game that you will be entering territory for Q Trial events & we will do our utmost to respond quickly and notify in AC that you are not to be harmed
   - If any of our members have a Q Trial in a territory not owned by us we ask you to please send a message to the leadership of the alliance that owns it before heading into their territory
@@ -75,7 +72,8 @@ Help us help you ☺️
 
 **Absences**
   - If you are going to be away from the game for more than 3 days please let us know in the discord channel “stfc-absences” so we don't kick you out for inactivity.
-  - Infractions to these guidelines will be discussed with the offenders, or applicable offender's alliance Admiral / RoE Officer, to discuss the best next steps.
+
+Infractions to these guidelines will be discussed with the offenders, or applicable offender's alliance Admiral / RoE Officer, to discuss the best next steps.
 
 **SPWN has a 3 Strike Rule**. We will hold our players accountable for issues like no screenshots or RoE violations.
 
