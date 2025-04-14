@@ -11,6 +11,7 @@
 - OPC survey ships, including those floating or traveling.
 - UPC survey ships on z-nodes or acting as warships.
 - Irrespective of other ROE provisions, ships on specialty mining nodes for which they are not designed, except concentrated latinum when being mined with Arrock as captain.
+- Irrespective of other ROE provisions, any non-survey ship used to mine gas, ore, crystal, dilithium, tritanium, or parsteel.
 
 **Off-limit Hits**
 - Ships in token space. Note: See below for token space definition. MU systems 51 and up are not protected as token space and PvP is permitted under this definition.
