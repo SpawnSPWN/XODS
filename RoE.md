@@ -22,6 +22,7 @@
 - 5 minutes prior to and during active territory captures, in that territory only.
 - 4 hours prior to and during incursion.
 - During War & KOS; declared parties only.
+- War declarations must follow the 99.5 War Declaration Policy.
 
 **Not Addressed in ROE**
 - Bases, including hives.
