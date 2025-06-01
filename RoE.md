@@ -75,6 +75,9 @@ Help us help you ☺️
 **Absences**
   - If you are going to be away from the game for more than 3 days please let us know in the discord channel “stfc-absences” so we don't kick you out for inactivity.
 
+**Incursions**
+  - During Incursion, If your shield is down for 30 minutes or more and you are not raiding you may be kicked and invited back after Incursion is over on a case by case basis
+
 Infractions to these guidelines will be discussed with the offenders, or applicable offender's alliance Admiral / RoE Officer, to discuss the best next steps.
 
 **SPWN has a 3 Strike Rule**. We will hold our players accountable for issues like no screenshots or RoE violations.
