@@ -19,9 +19,10 @@
 - UPC survey ships not engaged as warships.
 
 **ROE Is Suspended/Explicitly Does Not Apply**
-- 5 minutes prior to and during active territory captures, in that territory only.
+- During active territory captures, in that territory only.
+- In unowned territory (i.e., when an origin space territory has not yet been "won" by any alliance).
 - 4 hours prior to and during incursion.
-- During War & KOS; declared parties only.
+- To those declared KOS & NSH; (declared parties only).
 - War declarations must follow the 99.5 War Declaration Policy.
 
 **Not Addressed in ROE**
@@ -34,7 +35,7 @@
 **Additional Definitions**
 - Specialty mining node: any node other than parsteel/tritanium/dilithium/crystal/ore/gas/isogen/trellium, including both A & D
 - Token space: any system requiring an item be provided in exchange for entrance, irrespective of the name of the item
-- Warship: Any ship engaged in PvP or hostile hunting
+- Warship: Any ship engaged in PvP (this includes, but is not limited to; any ships staging for TC; ROE baiting; using survey ships to blockade during base raids; etc,) and hostile hunting
 
 
 ## SPWN specific Code of Conduct (CoC):
