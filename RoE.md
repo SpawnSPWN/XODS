@@ -38,13 +38,13 @@
 - Warship: Any ship engaged in PvP (this includes, but is not limited to; any ships staging for TC; ROE baiting; using survey ships to blockade during base raids; etc,) and hostile hunting
 
 
-## SPWN specific Code of Conduct (CoC):
+## XODS specific Code of Conduct (CoC):
 
 Follow RoE as stated on server 99 discord.
 
-Follow SPWN specific CoC and RoE as outlined below.
+Follow XODS specific CoC and RoE as outlined below.
 
-We respect the dignity of others regardless of race, ethnicity, disability, gender, gender identity, sexual orientation, religion, etc., and do not tolerate discriminatory or marginalizing behavior towards others. While a 3 Strike Rule for SPWN and server RoE is typical, actions that violate respectful behavior towards others *may* result in immediate removal from the alliance. Bigoted comments will result in immediate removal.
+We respect the dignity of others regardless of race, ethnicity, disability, gender, gender identity, sexual orientation, religion, etc., and do not tolerate discriminatory or marginalizing behavior towards others. While a 3 Strike Rule for XODS and server RoE is typical, actions that violate respectful behavior towards others *may* result in immediate removal from the alliance. Bigoted comments will result in immediate removal.
 
 Basically, don't be a dick. 
 
@@ -56,7 +56,7 @@ Please inform officers of issues with other players or alliances. Diplomacy is o
 
 Help us help you ☺️
 
-## SPWN specific RoE
+## XODS specific RoE
 
 - Any RoE violations should be reported to them in the discord channel “stfc-roe-violations-only”
 - Our members are required to take screenshots of Z-node hits.  **All screenshots must be posted in discord in the “stfc-znode” screenshots channel**. Failure to provide Z-node screenshots will result in a strike.
@@ -81,7 +81,7 @@ Help us help you ☺️
 
 Infractions to these guidelines will be discussed with the offenders, or applicable offender's alliance Admiral / RoE Officer, to discuss the best next steps.
 
-**SPWN has a 3 Strike Rule**. We will hold our players accountable for issues like no screenshots or RoE violations.
+**XODS has a 3 Strike Rule**. We will hold our players accountable for issues like no screenshots or RoE violations.
 
 ## Alliance Status Meanings
 
@@ -99,4 +99,4 @@ This is a copy of the RoE found in Steve's discord. The version of RoE on discor
 
 Primarially written by Wish and Gail, with additions by KyreR
 
-[Home](https://github.com/SpawnSPWN/SPWN)
+[Home](https://github.com/SpawnSPWN/XODS)
