@@ -1,8 +1,8 @@
 ## Welcome!
 
-This repository is for information regarding the Spawn (SPWN) alliance in Star Trek Fleet Command Server 99.
+This repository is for information regarding the Exodus (XODS) alliance in Star Trek Fleet Command Server 99.
 
-Please familiarize yourself with [Server and SPWN Rules of Engagement (RoE) and Alliance Status Meanings](https://github.com/SpawnSPWN/SPWN/blob/main/RoE.md), what screenshots are required for [Z-node hits](https://github.com/SpawnSPWN/SPWN/blob/main/Z-node%20Screenshots.md), and our rules for [mining in Territory on Mining Mondays and during the rest of the week](https://github.com/SpawnSPWN/SPWN/blob/main/TerritoryMining.md).
+Please familiarize yourself with [Server and XODS Rules of Engagement (RoE) and Alliance Status Meanings](https://github.com/SpawnSPWN/SPWN/blob/main/RoE.md), what screenshots are required for [Z-node hits](https://github.com/SpawnSPWN/SPWN/blob/main/Z-node%20Screenshots.md), and our rules for [mining in Territory on Mining Mondays and during the rest of the week](https://github.com/SpawnSPWN/SPWN/blob/main/TerritoryMining.md).
 
 We have a discord server, and the link to that is available through the Announcements section of the alliance page in game. There are five rooms/collections that are specific to STFC:
 - stfc-resources (a collection of handy information and links)
