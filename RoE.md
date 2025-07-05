@@ -90,12 +90,12 @@ Infractions to these guidelines will be discussed with the offenders, or applica
 - **Civil** (*Blue circle with a slash in it*): We technically don't treat any different than neutral, but consider this a gateway to becomming NOT blood thirsty enemies.
 - **Neutral** (*no mark*): Follow RoE.
 - **Caution** (*Yellow Triangle*): Fire watch. Used to mark temporary enemy alliances during territory defense or takeovers, or to find someone. Continue following RoE.
-- **Unfriendly** (*angry red face*): Made Steve angry. Hit them often, but follow RoE.
+- **Unfriendly** (*angry red face*): Made us angry. Hit them often, but follow RoE.
 - **Enemy** (*Red Target*): At war. Full KoS (kill on sight). RoE does NOT apply. Armadas and Token Spaces may still be off limits, despite them being KoS so please ask an officer if it's ok to hit them before doing so.
 
 **FOR ALL LABLES: TOKEN SPACES ARE OFF LIMITS UNLESS AN OFFICER SAYS OTHERWISE**
 
-This is a copy of the RoE found in Steve's discord. The version of RoE on discord is considered the primary authority if there are ever any discrepancies between the two. Please join the discord and check the RoE regularly to ensure you're up to date on the latest requirements.
+This is a copy of the RoE found in our discord. The version of RoE on discord is considered the primary authority if there are ever any discrepancies between the two. Please join the discord and check the RoE regularly to ensure you're up to date on the latest requirements.
 
 Primarially written by Wish and Gail, with additions by KyreR
 
