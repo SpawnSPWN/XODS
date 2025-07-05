@@ -2,7 +2,7 @@
 
 Screenshots must be posted in the "stfc-znodes" channel on discord, and the screenshots must follow the format shown below.
 
-Communication will happen in Steve's discord server in the "stfc-roe-violations-only" room.
+Communication will happen in our discord in the "stfc-roe-violations-only" room.
 
 ### How to take a Z-node screenshot:
 
