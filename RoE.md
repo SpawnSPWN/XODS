@@ -87,7 +87,7 @@ Infractions to these guidelines will be discussed with the offenders, or applica
 
 - **Allied** (*Purple Heart*): Do not hit for any reason. If they war, we war, and vice versa.
 - **Friendly** (*Purple Spock Hand*): Abide by RoE, can hit OPC. Please only hit Z-Node if you need the node (and screenshots are still required). Bases, Autogrinders, Floaters, Territories, and Token Space are offlimits.
-- **Civil** (*Blue circle with a slash in it*): We technically don't treat any different than neutral, but consider this a gateway to becomming NOT blood thirsty enemies.
+- **Civil** (*Blue circle with a slash in it*): Either no TC hits and/or no base hits, otherwise Abide by RoE, please ask an officer to be sure which one it is
 - **Neutral** (*no mark*): Follow RoE.
 - **Caution** (*Yellow Triangle*): Fire watch. Used to mark temporary enemy alliances during territory defense or takeovers, or to find someone. Continue following RoE.
 - **Unfriendly** (*angry red face*): Made us angry. Hit them often, but follow RoE.
